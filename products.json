@@ -1,0 +1,333 @@
+[
+  {
+    "name": "عطر مردانه اونتوس",
+    "price_old": "۲۲۰,۰۰۰ تومان",
+    "price_new": "۱۸۰,۰۰۰ تومان",
+    "image": "/Kian-imag/1.png",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "men",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "عطر مردانه کلاسیک",
+    "price_old": "۲۵۰,۰۰۰ تومان",
+    "price_new": "۲۱۰,۰۰۰ تومان",
+    "image": "/Kian-imag/1",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "men",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تبستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "/Kian-imag/1.jpg",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "men",
+    "scent": "گرم",
+    "brand": "Dior"
+  }
+  ,
+  {
+    "name": "بادی اسپلش ابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "men",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "men",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "women",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "women",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "top-seller",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  },
+  {
+    "name": "بادی اسپلش تابستانی",
+    "price_old": "۱۴۰,۰۰۰ تومان",
+    "price_new": "۱۲۰,۰۰۰ تومان",
+    "image": "https://via.placeholder.com/240x160/CCFFCC/000000?text=تابستان",
+    "notes": "نت اولیه: گل رز\nنت میانی: یاس\nنت پایه: وانیل",
+    "category": "مردانه",
+    "scent": "گرم",
+    "brand": "Dior"
+  }
+]
