@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="fa">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kian-shop</title>
+<link rel="icon" href="/Kian-imag/kian2-1.png">
+<link rel="stylesheet" href="/main shop/main shop.css" type="text/css">
+<script defer src="/main shop/main shop.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/sahel-font/dist/font-face.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+</head>
+	
+<body>
+  <div class="page-layout">
+    <div class="scroll-progress">
+      <div class="progress-bar"></div>
+    </div>
+  <header id="main-header">
+        <div class="luxury-slogan-container">
+      <div class="luxury-slogan">
+        <span class="line"> به فروشگاه </span>
+        <span class="line">خوش آمدید </span>
+      </div>
+    </div>
+
+    <div class="logo-container" id="logo">
+      <img src="/Kian-imag/kian.png" alt="لوگو کیان" class="logo-img">
+      <div class="logo-text-colored">
+        <span class="red">کیان</span>
+        <span class="white">برای</span>
+        <span class="green">ایران</span>
+        
+      </div>
+    </div>
+  </header>
+  
+
+
+<!-- آغاز بخش منوی سایت -->
+<nav class="main-nav" id="menu">
+    <div class="nav-right">
+    <div class="nav-logo"><img src="/Kian-imag/kian2-1.png" class="mini-logo"></div>
+     <div class="hamburger" onclick="toggleMenu()">☰</div>
+    <ul class="nav-menu" id="menu">
+      <li><a href="/Home/kian.html"><i class="fas fa-home"></i>خانه</a></li>
+
+      <li class="has-submenu">
+        <a href="/main shop/main shop.html"><i class="fas fa-spray-can-sparkles"></i> نوع عطر</a>
+        <ul class="submenu" >
+          <li onclick="filterProducts('women')"><a href="#"><i class="fa-solid fa-heart"></i>عطر زنانه</a></li>
+          <li onclick="filterProducts('men')"><a href="#"><i class="fa-solid fa-user"></i>عطر مردانه</a></li>
+          <li onclick="filterProducts('top-seller')"><a href="#"><i class="fa-solid fa-trophy"></i>پرفروش‌ها</a></li>
+        </ul>
+      </li>
+
+      <li class="has-submenu"><a href="#"><i class="fa-solid fa-tag"></i>برندها</a>
+        <ul class="submenu">
+          <li><a><i class="fa-solid fa-crown"></i>Creed</a></li>
+          <li><a><i class="fa-solid fa-crown"></i>Tomford</a></li>
+          <li><a><i class="fa-solid fa-crown"></i>Dior</a></li>
+          <li><a><i class="fa-solid fa-crown"></i>Xerjoff</a></li>
+          <li><a><i class="fa-solid fa-crown"></i>Nasomatto</a></li>
+          <li><a><i class="fa-solid fa-crown"></i>Chanel</a></li>
+          <li><a><i class="fa-solid fa-crown"></i>سایر برند ها</a> </li>
+        </ul>
+      </li>
+
+      <li class="has-submenu"><a href="#"><i class="fa-solid fa-user"></i> بادی اسپلش</a>
+        <ul class="submenu">
+          <li><a><i class="fa-solid fa-heart"></i>زنانه</a></li>
+          <li><a><i class="fa-solid fa-user"></i>مردانه</a></li>
+          <li><a><i class="fa-solid fa-person-running"></i>اسپرت</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="fa-solid fa-box"></i>پیگیری سفارش</a></li>
+    </ul>
+    </div>
+    <div class="nav-actions">
+      <form action="/main shop/search/search.html" method="GET">
+      <input type="text"  name="q" placeholder=" اینجا سرچ کن...." class="search-box">
+      <button type="submit" class="submit">جستجو</button>
+      </form>
+      <span class="cart-icon">🛒</span>
+    </div>
+</nav>
+<!-- پایان بخش منوی سایت -->
+
+
+  <!-- ساختار با سایدبار چپ و راست -->
+  <div class="page-layout">
+<aside class="sidebar sidebar-left">
+  <h3 class="sidebar-title">اخبار و اطلاعیه‌ها</h3>
+
+  <!-- حراج ویژه -->
+  <div class="news-item">
+    <span class="news-label">🔥 حراج ویژه</span>
+    <p>فقط تا پایان هفته، خرید عطرهای Dior با 30٪ تخفیف همراه است.</p>
+  </div>
+<hr>
+  <!-- پیشنهاد لحظه‌ای -->
+  <div class="news-item">
+    <span class="news-label">⏳ پیشنهاد لحظه‌ای</span>
+    <p>۳ عدد بادی‌اسپلش بخر، یکی رایگان هدیه بگیر! فقط امروز!</p>
+  </div>
+<hr>
+  <!-- اطلاعیه مهم -->
+  <div class="news-item">
+    <span class="news-label">📢 اطلاعیه</span>
+    <p>امکان خرید اقساطی برای مشتریان وفا دار فعال شد</p>
+  </div>
+<hr>
+  <!-- عضویت در خبرنامه -->
+  <div class="newsletter-box">
+    <p> باعضویت در سایت کیان میتوانید به دسته مشتریان وفا دار بپیوندید</p>
+    <button class="join-button">عضویت</button>
+  </div>
+<hr>
+  <!-- پشتیبانی -->
+  <div class="news-item">
+    <span class="news-label">📞 پشتیبانی</span>
+    <p>سوالی دارید؟ با پشتیبانی آنلاین کیان تماس بگیرید. <br> <strong>تلفن:</strong> 021-xxxxxxx</p>
+  </div>
+</aside>
+
+
+  <main class="main-content">
+ <main id="product-section">
+
+ <!--بخش معرفی محصولات منتخب -->
+
+ <section class="bestseller-header">
+    <h2 class="bestseller-title"> محصولات منتخب شما</h2>
+  <p class="bestseller-sub">رایحه هایی که دیگران به شما پیشنهاد میکنند</p>
+ </section>
+  <div id="product-list" class="product-list"></div>
+  <div class="pagination" id="pagination-container"></div>
+
+>
+<!-- لایت‌باکس -->
+<div id="lightbox" onclick="closeLightbox()">
+  <span class="lightbox-close" onclick="closeLightbox(event)">×</span>
+  <img id="lightbox-img" src="" alt="Lightbox Image">
+</div>
+
+</div>
+</main>
+    <aside class="sidebar right-sidebar">
+        <h3 class="sidebar-title">دسته‌بندی محصولات</h3>
+        <ul class="sidebar-section">
+    <li class="strong-title"><strong>نوع محصول</strong></li>
+    <li><a href="#">عطر مردانه</a></li>
+    <li><a href="#">عطر زنانه</a></li>
+    <li><a href="#">عطر یونی‌سکس</a></li>
+    <li><a href="#">ادکلن کودکانه</a></li>
+    <li><a href="#">بادی اسپلش / اسپری بدن</a></li>
+    <li><a href="#">تسترها و مینیاتوری‌ها</a></li>
+    <hr>
+  </ul>
+
+  <ul class="sidebar-section">
+    <li class="strong-title"><strong>رایحه</strong></li>
+    <li><a href="#">شیرین</a></li>
+    <li><a href="#">تلخ</a></li>
+    <li><a href="#">خنک</a></li>
+    <li><a href="#">گرم</a></li>
+    <li><a href="#">چوبی / شرقی / گلی</a></li>
+    <hr>
+  </ul>
+
+  <ul class="sidebar-section">
+    <li class="strong-title"><strong>برندها</strong></li>
+    <li><a href="#">Chanel</a></li>
+    <li><a href="#">Dior</a></li>
+    <li><a href="#">Creed</a></li>
+    <li><a href="#">Mont Blanc</a></li>
+    <li><a href="#">Kian</a></li>
+    <hr>
+  </ul>
+
+  <ul class="sidebar-section">
+    <li class="strong-title"><strong >ویژه</strong></li>
+    <li><a href="#">پرفروش‌ترین‌ها</a></li>
+    <li><a href="#">تخفیف‌دارها</a></li>
+    <li><a href="#">جدیدترین‌ها</a></li>
+    <li><a href="#">مناسب هدیه</a></li>
+    <li><a href="#">ماندگاری بالا</a></li>
+    <li><a href="#">بسته‌بندی لاکچری</a></li>
+    <hr>
+  </ul>
+    </aside>
+</div>
+<!--بخش فوتر سایت -->
+
+<footer class="site-footer">
+  <div class="footer-content">
+    <div class="footer-logo">
+      <h2><img class="logo-footer" src="/Kian-imag/kian.png"></h2>
+      <p dir="rtl" style="text-align: center;"> رایحه‌ی ماندگار ایرانی </p>
+    </div>
+
+    <div class="footer-links">
+      <h4>لینک‌های مفید</h4>
+      <ul>
+        <li><a href="#"><i class="fas fa-info-circle"></i> <span style="padding-left: 10px;">درباره ما</span></a></li>
+        <li><a href="#"><i class="fas fa-phone"></i> <span style="padding-left: 10px;">تماس ما</span></a></li>
+        <li><a href="#"> <i class="fas fa-rotate-left"></i><span style="padding-left: 10px;">سیاست بازگشت کالا</span></a></li>
+      </ul>
+    </div>
+
+    <div class="footer-newsletter">
+      <h4> اگر دوستداری نظرات و سوالاتت  خودت رو بنویسی   اینجا<br>با ایمیلت عضو بشو و هر چی میخوای رو بنویس </h4>
+      <input type="email" placeholder="ایمیل خودتو اینجا بنویس" class="email-box">
+      <button class="join-but">عضویت</button>
+    </div>
+
+    <div class="footer-social">  
+      <table>
+        <tr style="text-align: center;">ما در شبکه های اجتماعی هم هستیم
+          <td style="padding-right: 5px; padding-left: 5px;">
+            <ul class="social-links">
+            <li><a href="#"><img src="/Kian-imag/robica icon.png" alt="Rubika" width="20" style="vertical-align: middle;">روبیکا</a></li>
+            <li><a href="#"><img src="/Kian-imag/eeta.png" alt="eeta" width="20" style="vertical-align: middle;">ایتا</a></li>
+            <li><a href="#"><img src="/Kian-imag/bale.png" alt="bale" width="20" style="vertical-align: middle;">بله</a></li>
+          </ul>
+          </td>
+          <td style="padding-right: 5px; padding-left: 5px;">
+            <ul class="social-links">
+            <li><a href="#"><i class="fab fa-instagram" ></i><span>اینستاگرام</span></a></li>
+            <li><a href="#"><i class="fab fa-telegram-plane"></i><span>تلگرام</span></a></li>
+            <li><a href="#"><i class="fab fa-whatsapp"></i><span>واتساپ</span></a></li>
+          </ul>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="footer-bottom">
+  <p>© 2025 برند کیان | تمامی حقوق محفوظ است</p><span>طراح سایت: مهندس مهدی علیکاهی</span>
+  <div class="footer-icons2">
+    <img src="/Kian-imag/namad.png" alt="نماد اعتماد" width="40">
+    <img src="/Kian-imag/pardakht.jpeg" alt="درگاه پرداخت" width="40">
+  </div>
+</div>
+</footer>
+</body>
+</html>
+ 
